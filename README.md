@@ -6,5 +6,5 @@
 github提供的读取资源文件格式如下：
   ``` 
   https://raw.githubusercontent.com/:owner/:repo/master/:path
-  ```
+
 然后
